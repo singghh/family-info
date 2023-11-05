@@ -1,0 +1,7 @@
+SurName : Bamla
+MiddleName : varun
+LastName : Singh
+Age : 
+Phone Numeber :
+Gender : 
+College : 

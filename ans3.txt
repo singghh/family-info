@@ -1,0 +1,7 @@
+SurName : Bamla
+MiddleName : Dharani
+LastName : Bai
+Age : 
+Phone Numeber :
+Gender : 
+College : 
