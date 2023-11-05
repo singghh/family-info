@@ -1,0 +1,7 @@
+SurName : Bamla
+MiddleName : Bhavani
+LastName : Bai
+Age : 42
+Phone Numeber : 7675885758
+Gender : F
+College : 10th
