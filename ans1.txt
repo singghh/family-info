@@ -1,0 +1,7 @@
+SurName : Bamla
+MiddleName : Sathesh
+LastName : Singh
+Age : 48
+Phone Numeber : 9959185559
+Gender : M
+College : 10th
